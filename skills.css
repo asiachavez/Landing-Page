@@ -1,0 +1,52 @@
+h1, h2 ,h3 {
+    color: #2E4F4F;
+    font-style: Serif;
+    letter-spacing: .4em;
+    font-style: Georgia;
+    text-align: center;
+    
+
+}
+p{
+  font-size: 20px;
+  font-style: Georgia;
+  text-align: Justify;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+
+body {
+  border-style: solid;
+  border-color: #0E8388;
+  border-width: 7px;
+  padding: 60px;
+  font-family:Tahoma, Verdana, 'Trebuchet MS', Sans-serif;
+  color:#fffffe;
+  background-color:#2C3333;
+
+}
+div.container{
+	justify-content: space-between; 
+	display: flex;
+	flex: wrap;
+	width: 100%;
+	
+}
+div.content{
+
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: flex-end;
+	
+}
+div.content img{
+	width: auto;
+	height: auto;
+	max-height: 500px;
+	max-width: 500px;
+}
+
+a{
+	font-size: 30px;
+}

@@ -1,0 +1,53 @@
+img {
+	width: 20%;
+	height:20%;
+	background-color:#2C3333
+	padding: 20px 20px;
+	border-radius: 20px;
+	margin:20px;
+	
+}
+
+img {
+	overflow-clip-margin: content-box;
+	overflow:clip;
+	
+}
+body {
+	background-color:#2E4F4F;
+	font-family:verdana, Serif;
+}
+h2,h3 {
+	text-align:left;
+	color: black;
+	font-family: verdana, Serif;
+}
+
+h2,h3 {
+	text-align:left;
+	color: black;
+	font-family: verdana, Serif;
+}
+
+h2,h3 {
+	text-align:left;
+	color: black;
+	font-family: verdana, Serif;
+}
+
+img {
+    width:20%;
+    height:20%;
+}
+
+a{
+	font-size: 30px;
+}
+
+a:hover {
+  opacity:50%;
+  transition: 0.5s;
+}
+.column{
+	justify-content: center;
+}
